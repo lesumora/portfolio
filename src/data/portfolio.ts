@@ -26,7 +26,7 @@ export const portfolio = {
   social: [
     { label: 'GitHub', href: 'https://github.com/bulsu-mimurajg' },
     { label: 'LinkedIn', href: 'https://linkedin.com/jaden-m-b0a01b375' },
-    // { label: 'Twitter', href: 'https://twitter.com' },
+    { label: 'Facebook', href: 'https://facebook.com/lesumora' },
   ],
   projects: [
     {
